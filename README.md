@@ -1,0 +1,1 @@
+This repository contains a reproduction of a bug encountered while using Expo CLI where the development server crashes with inconsistent error messages.  The bug is difficult to track down due to vague error messages.  The solution, if found, would involve identifying the root cause of the server crash and providing a fix or workaround.
